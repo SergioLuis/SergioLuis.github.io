@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "sergio@blog"
+title                    : "blog [at] sluis"
 title_separator          : "|"
-name                     : "Another development blog"
+name                     : "Sergio Luis Para"
 description              : "Thoughts from a Spain-based software developer in his middle twenties."
-url                      : "http://sluis.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.sluis.me/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "SergioLuis/SergioLuis.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sergio Luis"
-  avatar           : "/assets/images/bio/self.png"
-  bio              : "A Software Engineer at Valladolid and a Master's Degree Student at Madrid's Complutense University."
-  location         : "Valladolid - Madrid (SPAIN)"
+  name             : "Sergio Luis Para"
+  avatar           : "/assets/images/bio/self.jpg"
+  bio              : "Spain-based Software Engineer, interested in videogames, emulation, politics, and cats."
+  location         : "Valladolid"
   #  email            : "sergio.l.para@gmail.com"
   links:
     - label: "Email"
@@ -114,7 +114,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://sluis.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/S_Luis"
@@ -218,7 +218,7 @@ kramdown:
 permalink: /:year/:month/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: ES
 
 
 # Plugins (previously gems:)
