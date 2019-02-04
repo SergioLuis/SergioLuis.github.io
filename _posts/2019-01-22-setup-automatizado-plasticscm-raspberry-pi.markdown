@@ -11,7 +11,7 @@ excerpt: "El porqué y el cómo automaticé mi instalación de Plastic SCM en un
 header:
     overlay_image: assets/images/posts/2019-01-22-setup-automatizado-plasticscm-raspberry-pi/header.jpg
     overlay_filter: rgba(0, 191, 165, 0.5)
-    caption: "Crédito: [**Matt Wareham**](https://flic.kr/p/eSZxTp)"
+    caption: "Foto: [**Matt Wareham**](https://flic.kr/p/eSZxTp)"
     actions:
     - label: "Post original"
       url: "http://blog.plasticscm.com/2019/01/fully-automated-plastic-scm-setup-on-raspberry-pi.html"
