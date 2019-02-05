@@ -9,7 +9,7 @@ tags:
     - raspberrypi
 excerpt: "El porqué y el cómo automaticé mi instalación de Plastic SCM en una RPi. ¡Actualizaciones y backups automáticos, y notificationes en tu móvil!"
 header:
-    overlay_image: assets/images/posts/2019-02-03-setup-automatizado-plasticscm-raspberry-pi/header.jpg
+    overlay_image: assets/images/posts/001-setup-automatizado-plasticscm-raspberry-pi/header.jpg
     overlay_filter: rgba(0, 191, 165, 0.5)
     caption: "Foto: [**Matt Wareham**](https://flic.kr/p/eSZxTp)"
     actions:
@@ -18,7 +18,7 @@ header:
 ---
 Prácticamente desde que comencé mis Prácticas de Empresa del Grado en Códice Software no he usado ningún otro _software de control de versiones_ que no sea [**Plastic SCM**](http://plasticscm.com/) (salvo cuando usar Git ha sido obligatorio para compartir algo en GitHub, o con mis compañeros y profesores del Máster).
 
-[![Enlace directo al blogpost en blog.plasticscm.com](/assets/images/posts/2019-02-03-setup-automatizado-plasticscm-raspberry-pi/miniatura.png)](http://blog.plasticscm.com/2019/01/fully-automated-plastic-scm-setup-on-raspberry-pi.html)
+[![Enlace directo al blogpost en blog.plasticscm.com](/assets/images/posts/001-setup-automatizado-plasticscm-raspberry-pi/miniatura.png)](http://blog.plasticscm.com/2019/01/fully-automated-plastic-scm-setup-on-raspberry-pi.html)
 
 Y, prácticamente desde que comencé a utilizar Plastic SCM como mi opción principal para controlar no solo código, sino todo tipo de ficheros que requiera versionado, tengo un servidor instalado en una Raspberry Pi, al que puedo acceder cómodamente desde cualquier lugar gracias a un servicio de [Dynamic DNS](https://www.noip.com/) y redirección de puertos en el NAT.
 
