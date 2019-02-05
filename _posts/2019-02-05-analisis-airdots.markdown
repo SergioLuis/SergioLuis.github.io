@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Xiaomi AirDots: los cascos inalámbricos que volvería a comprar"
-date:  2019-02-05 11:00:00 +0100
+date:  2019-02-05 01:00:00 +0100
 categories:
     - analisis
 tags:
@@ -80,8 +80,8 @@ La sincronización de los auriculares con el emisor Bluetooth es MUY rápida, pe
 
 Además el izquierdo, de vez en cuando (muy, muy de vez en cuando) pierde la conexión durante un par de segundos, en los que pasamos a escuchar el sonido en mono mientras se recuperan del fallo.
 
-> Una vez hicieron eco.⠀
-> ⠀Una vez hicieron eco.  
+> Una vez hicieron eco.⠀  
+> ⠀Una vez hicieron eco.
 
 Para colmo de males, además de con la fuente Bluetooth, los auriculares se tienen que sincronizar entre sí para emitir al mismo tiempo. De hecho, conseguir esta sincronización fue [uno de los motivos por los que se retrasó la producción en masa de los AirPods](https://es.ubergizmo.com/2016/12/10/apple-no-consigue-los-airpods-se-sincronicen-adecuadamente.html). En cuanto a los AirDots, en solo una ocasión me he encontrado con que ambos se desincronizan, produciendo un efecto de eco muy desagradable. Por suerte, arreglarlo fue tan sencillo como pausar el sonido usando el control táctil, y, al volver a tocar, se resincronizaron.
 
