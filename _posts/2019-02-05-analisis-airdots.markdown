@@ -21,7 +21,7 @@ A esto hay que sumarle que, dado que te inspiras muy fuerte en Apple para elabor
 
 Es por esto que todavía no he encontrado una videoreview que le haga justicia a los _Xiaomi AirDots_. Todas terminan con una versión de _"cómpratelos si quieres unos AirPods pero eres pobre"_, o lo que es todavía más estúpido, _"no es para audiófilos"_. 
 
-Y como decía mi vejo profesor de Orientación a Objetos, _"nos ha jodido mayo con las flores y enero con las rebajas"_. ¿En qué cabeza cabe que unos auriculares que cuestan 25€ al cambio (50€ una vez llegan a Europa) sean para audiófilos?
+Y como decía mi viejo profesor de Orientación a Objetos, _"nos ha jodido mayo con las flores y enero con las rebajas"_. ¿En qué cabeza cabe que unos auriculares que cuestan 25€ al cambio (50€ una vez llegan a Europa) sean para audiófilos?
 
 Sin embargo, son unos auriculares muy competentes para lo que hacen en relación a lo que cuestan. Vamos a ver qué sacamos en claro de ellos.
 
