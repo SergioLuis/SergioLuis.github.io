@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Xiaomi AirDots: los cascos inalámbricos que volvería a comprar"
-date:  2019-02-05 12:00:00 +0100
+date:  2019-02-05 11:00:00 +0100
 categories:
     - analisis
 tags:
