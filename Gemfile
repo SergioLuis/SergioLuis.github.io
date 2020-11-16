@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.9.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
@@ -29,7 +29,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Minimal mistakes theme - github.com/mmistakes/minimal-mistakes
-gem "jekyll-remote-theme"
-gem "jekyll-include-cache"
+gem "github-pages", "~> 209", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem "github-pages", group: :jekyll_plugins
